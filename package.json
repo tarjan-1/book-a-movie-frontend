@@ -25,7 +25,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": " start",
+    "start": "node start",
     "build": "node build",
     "test": "node test",
     "eject": "node eject"
